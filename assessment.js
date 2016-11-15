@@ -48,7 +48,7 @@
         '{userName}のいいところはありません。'
     ];
 
-    /**
+/**
 * 名前の文字列を渡すと診断結果を返す関数
 * @param {string} userName ユーザーの名前
 * @return {string} 診断結果
